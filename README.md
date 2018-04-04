@@ -1,3 +1,5 @@
+![strata scratch](visualizations/sslogo.jpg) 
+
 # Community Contributed Data Analytics
 Community contributed data analytic examples created with Strata Scratch
 
