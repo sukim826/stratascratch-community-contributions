@@ -1,8 +1,7 @@
 ![strata scratch](visualizations/sslogo.jpg) 
 
 # Community Contributed Data Analytics
-Community contributed data analytic examples created with Strata Scratch
+This repository stores community contributed data analytic examples created with Strata Scratch. Feel free to take a look around at what others are doing with our datasets. If you have some analyses and would like to contribute use our [community-template](https://github.com/stratascratch/community-contributions/tree/master/community-template) and upload your analyses to this repository. 
 
-Use our [community-template](https://github.com/stratascratch/community-contributions/tree/master/community-template) and upload your analyses from one of our public datasets found on Strata Scratch.
+## Instructions on How to Contribute to the Community
 
-Save your analysis in a folder and push it into this repo!
